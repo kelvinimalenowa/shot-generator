@@ -2,6 +2,10 @@
 
 A simple JavaScript application that randomly generates a shot for the user.
 
+## Project Link
+
+[Pour It Up](https://kelvinimalenowa.github.io/shot-generator/)
+
 ## Features
 
 - Generate a random shot
